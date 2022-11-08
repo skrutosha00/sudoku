@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.66ff340a.css",
+    "main.js": "/react-gh-pages/static/js/main.66b2f39a.js",
+    "static/media/Nunito-Medium.ttf": "/react-gh-pages/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.66ff340a.css.map": "/react-gh-pages/static/css/main.66ff340a.css.map",
+    "main.66b2f39a.js.map": "/react-gh-pages/static/js/main.66b2f39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ff340a.css",
+    "static/js/main.66b2f39a.js"
+  ]
+}
