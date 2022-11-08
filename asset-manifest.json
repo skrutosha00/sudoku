@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.66ff340a.css",
-    "main.js": "/react-gh-pages/static/js/main.66b2f39a.js",
-    "static/media/Nunito-Medium.ttf": "/react-gh-pages/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
-    "index.html": "/react-gh-pages/index.html",
-    "main.66ff340a.css.map": "/react-gh-pages/static/css/main.66ff340a.css.map",
-    "main.66b2f39a.js.map": "/react-gh-pages/static/js/main.66b2f39a.js.map"
+    "main.css": "/sudoku/static/css/main.f8971f58.css",
+    "main.js": "/sudoku/static/js/main.66b2f39a.js",
+    "static/media/Nunito-Medium.ttf": "/sudoku/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "index.html": "/sudoku/index.html",
+    "main.f8971f58.css.map": "/sudoku/static/css/main.f8971f58.css.map",
+    "main.66b2f39a.js.map": "/sudoku/static/js/main.66b2f39a.js.map"
   },
   "entrypoints": [
-    "static/css/main.66ff340a.css",
+    "static/css/main.f8971f58.css",
     "static/js/main.66b2f39a.js"
   ]
 }
